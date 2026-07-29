@@ -6,7 +6,6 @@
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0; padding: 15px; border: 1px solid #e1e4e8; border-radius: 10px; background: #f6f8fa; max-width: 600px;">
 
-  <!-- Левая колонка: Квадратная фотография -->
   <div style="flex-shrink: 0;">
     <img src="../images/yan.jpg" alt="Фото" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px;">
   </div>
@@ -24,6 +23,8 @@
   </div>
 
 </div>
+
+![yan.svg](../svg/yan.svg)
 
 ## Наши проекты
 

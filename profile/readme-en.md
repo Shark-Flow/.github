@@ -24,6 +24,7 @@
 
 </div>
 
+![yan.svg](../svg/yan.svg)
 
 ## Our projects
 
